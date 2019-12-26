@@ -1,0 +1,51 @@
+==========
+Status before all battles, etc.
+Jim has an army of 1
+	Spock: 15
+
+Lancelot du Lac has an army of 2
+	Conan: 12
+	Hercules: 3
+
+King Arthur has an army of 2
+	Merlin: 15
+	Tarzan: 10
+
+Linus Torvalds has an army of 1
+	Xena: 20
+
+Bill Gates has an army of 1
+	Hulk: 8
+
+==========
+You don't work for me anymore Tarzan! -- King Arthur.
+King Arthur has an army of 1
+	Merlin: 15
+
+King Arthur battles Lancelot du Lac
+Mutual Annihalation: King Arthur and Lancelot du Lac die at each other's hands
+Jim battles Lancelot du Lac
+He's dead, Jim
+Linus Torvalds battles Bill Gates
+Linus Torvalds defeats Bill Gates
+Bill Gates battles Lancelot du Lac
+Oh, NO!  They're both dead!  Yuck!
+==========
+Status after all battles, etc.
+Jim has an army of 1
+	Spock: 15
+
+Lancelot du Lac has an army of 2
+	Conan: 0
+	Hercules: 0
+
+King Arthur has an army of 1
+	Merlin: 0
+
+Linus Torvalds has an army of 1
+	Xena: 12
+
+Bill Gates has an army of 1
+	Hulk: 0
+
+==========
